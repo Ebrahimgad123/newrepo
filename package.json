@@ -2,11 +2,12 @@
   "name": "restaurant-gericht-react-css-bem",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ebrahimgad123.github.io/portfolio",
+  "homepage": "https://Ebrahimgad123.github.io/newrepo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
+    "gh-pages": "^6.1.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-icons": "^4.4.0",
