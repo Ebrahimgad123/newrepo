@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a89af10d.css",
-    "main.js": "/portfolio/static/js/main.9cb3443d.js",
-    "static/media/meal.mp4": "/portfolio/static/media/meal.e929a269e9ba0ea2889e.mp4",
-    "static/media/bg.png": "/portfolio/static/media/bg.70b531a832eb172435e2.png",
-    "static/media/welcome.png": "/portfolio/static/media/welcome.d724eb984456d9c97470.png",
-    "static/media/findus.png": "/portfolio/static/media/findus.8b94fb311ccea613ec1d.png",
-    "static/media/laurels.png": "/portfolio/static/media/laurels.8a64e926d1b43b367177.png",
-    "static/media/menu.png": "/portfolio/static/media/menu.a8287c67809afebcc280.png",
-    "static/media/chef.png": "/portfolio/static/media/chef.65c63bbc74c1327ca5c2.png",
-    "static/media/gallery04.png": "/portfolio/static/media/gallery04.10c7bb5bab61419fe003.png",
-    "static/media/gallery03.png": "/portfolio/static/media/gallery03.ffc73c0b6ba1afff621f.png",
-    "static/media/gallery02.png": "/portfolio/static/media/gallery02.dfe5eb5235024e706e06.png",
-    "static/media/gallery01.png": "/portfolio/static/media/gallery01.de78ff0620490c39ff83.png",
-    "static/media/knife.png": "/portfolio/static/media/knife.8f65dac81a486782fbce.png",
-    "static/media/overlaybg.png": "/portfolio/static/media/overlaybg.e1c0273f3f92ddcbad57.png",
-    "static/media/spoon.svg": "/portfolio/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "index.html": "/portfolio/index.html",
-    "main.a89af10d.css.map": "/portfolio/static/css/main.a89af10d.css.map",
-    "main.9cb3443d.js.map": "/portfolio/static/js/main.9cb3443d.js.map"
+    "main.css": "/newrepo/static/css/main.07fffad2.css",
+    "main.js": "/newrepo/static/js/main.ce77bea2.js",
+    "static/media/meal.mp4": "/newrepo/static/media/meal.e929a269e9ba0ea2889e.mp4",
+    "static/media/bg.png": "/newrepo/static/media/bg.70b531a832eb172435e2.png",
+    "static/media/welcome.png": "/newrepo/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/newrepo/static/media/findus.8b94fb311ccea613ec1d.png",
+    "static/media/laurels.png": "/newrepo/static/media/laurels.8a64e926d1b43b367177.png",
+    "static/media/menu.png": "/newrepo/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/chef.png": "/newrepo/static/media/chef.65c63bbc74c1327ca5c2.png",
+    "static/media/gallery04.png": "/newrepo/static/media/gallery04.10c7bb5bab61419fe003.png",
+    "static/media/gallery03.png": "/newrepo/static/media/gallery03.ffc73c0b6ba1afff621f.png",
+    "static/media/gallery02.png": "/newrepo/static/media/gallery02.dfe5eb5235024e706e06.png",
+    "static/media/gallery01.png": "/newrepo/static/media/gallery01.de78ff0620490c39ff83.png",
+    "static/media/knife.png": "/newrepo/static/media/knife.8f65dac81a486782fbce.png",
+    "static/media/overlaybg.png": "/newrepo/static/media/overlaybg.e1c0273f3f92ddcbad57.png",
+    "static/media/spoon.svg": "/newrepo/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "index.html": "/newrepo/index.html",
+    "main.07fffad2.css.map": "/newrepo/static/css/main.07fffad2.css.map",
+    "main.ce77bea2.js.map": "/newrepo/static/js/main.ce77bea2.js.map"
   },
   "entrypoints": [
-    "static/css/main.a89af10d.css",
-    "static/js/main.9cb3443d.js"
+    "static/css/main.07fffad2.css",
+    "static/js/main.ce77bea2.js"
   ]
 }
